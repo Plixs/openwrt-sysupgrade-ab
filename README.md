@@ -70,3 +70,7 @@ installed/upgraded image will be the default.
 3. Upgrade: `./upgrade.sh openwrt-x86-64-generic-kernel.bin openwrt-x86-64-rootfs.tar.gz`
 4. Reboot
 
+## Fork
+https://github.com/pyther/openwrt-sysupgrade-ab
+https://github.com/yifangd/openwrt-sysupgrade-ab
+
